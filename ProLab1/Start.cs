@@ -19,7 +19,6 @@ namespace ProLab1
             InitializeComponent();
         }
 
-
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
             string t_1 = textBox1.Text;
